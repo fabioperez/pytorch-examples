@@ -1,6 +1,6 @@
 # PyTorch Examples
 
-This repository contains tutorials, examples, and projects implemented with PyTorch. Feel free to colaborate!
+This repository contains tutorials, examples, and projects implemented with PyTorch. Feel free to collaborate!
 
 ## Notebooks
 
