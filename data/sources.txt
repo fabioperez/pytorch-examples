@@ -1,4 +1,8 @@
+classification/
 https://www.pexels.com/photo/adorable-blur-breed-close-up-406014/
 https://www.pexels.com/photo/adorable-animal-breed-canine-356378/
 https://www.pexels.com/photo/adorable-animal-blur-cat-617278/
 https://www.pexels.com/photo/cat-whiskers-kitty-tabby-20787/
+
+segmentation/
+https://challenge.kitware.com/#challenge/n/ISIC_2017%3A_Skin_Lesion_Analysis_Towards_Melanoma_Detection
